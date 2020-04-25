@@ -17,9 +17,9 @@ O projeto **Total Zero** foi desenvolvido com objetivo de mostrar o desenvolvime
 
 ## 🚀 Tecnologias utilizadas
 
-- [Express](#-http://expressjs.com/en/5x/api.html#app.use)
-- [Jsonwebtoken](#-https://github.com/auth0/node-jsonwebtoken#readme)
-- [Mongoose](#-https://mongoosejs.com/docs/guide.html)
+- [Express](#http://expressjs.com/en/5x/api.html#app.use)
+- [Jsonwebtoken](#https://github.com/auth0/node-jsonwebtoken#readme)
+- [Mongoose](#https://mongoosejs.com/docs/guide.html)
 
 ## 🤔 Como utilizar
 
