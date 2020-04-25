@@ -1,9 +1,7 @@
 <h1 align="center">
 Total Zero
 </h1>
-<center><img src="https://terminalroot.com.br/assets/img/js/nodejs.jpg" heigh="75%" width="75%"></center>
-
----
+<h1 align="center"><img src="https://terminalroot.com.br/assets/img/js/nodejs.jpg" heigh="75%" width="75%"></h1>
 
 # Índice
 
@@ -17,9 +15,9 @@ O projeto **Total Zero** foi desenvolvido com objetivo de mostrar o desenvolvime
 
 ## 🚀 Tecnologias utilizadas
 
-- [Express](#http://expressjs.com/en/5x/api.html#app.use)
-- [Jsonwebtoken](#https://github.com/auth0/node-jsonwebtoken#readme)
-- [Mongoose](#https://mongoosejs.com/docs/guide.html)
+- [Express](http://expressjs.com/en/5x/api.html#app.use)
+- [Jsonwebtoken](https://github.com/auth0/node-jsonwebtoken#readme)
+- [Mongoose](https://mongoosejs.com/docs/guide.html)
 
 ## 🤔 Como utilizar
 
