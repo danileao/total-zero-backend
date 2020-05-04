@@ -6,7 +6,6 @@ class SessionController {
   async create(request, response) {
     const { username, password } = request.body;
 
-    //Verificar se usuario existe no sistema
     const user = await User.findOne({
       username,
     });
@@ -15,7 +14,6 @@ class SessionController {
       return response.status(404).json({ error: "User not found!" });
     }
 
-    // Verificar se a senha está correta
     const matchPassword = await compare(password, user.password);
 
     if (!matchPassword) {
