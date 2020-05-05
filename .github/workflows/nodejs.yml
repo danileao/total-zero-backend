@@ -28,6 +28,9 @@ jobs:
     - name: Install dependencies
       run: npm install 
     
+    - name: Install pm2
+      run: npm install pm2 -g
+    
     - name: stop pm2
       run: pm2 stop nodedeploy
     
