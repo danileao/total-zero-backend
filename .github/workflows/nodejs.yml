@@ -27,4 +27,11 @@ jobs:
         
     - name: Install dependencies
       run: npm install 
+    
+    - name: stop pm2
+      run: pm2 stop nodedeploy
+    
+    
+    - name: Run pm2
+      run: pm2 start src/server.js --name nodedeploy
 
