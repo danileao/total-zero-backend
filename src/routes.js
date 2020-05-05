@@ -12,7 +12,6 @@ app.get("/teste", (request, response) => {
     { id: 2, name: "Projeto ReactJS" },
     { id: 3, name: "Projeto Deploy" },
     { id: 4, name: "Projeto Deploy em processo" },
-    { id: 5, name: "Projeto Deploy Finalizado" },
   ];
 
   return response.json(projetos);
