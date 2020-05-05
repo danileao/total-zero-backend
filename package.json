@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "babel src -d dist",
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
@@ -15,10 +14,6 @@
     "mongoose": "^5.9.10"
   },
   "devDependencies": {
-    "@babel/cli": "^7.8.4",
-    "@babel/core": "^7.9.6",
-    "@babel/plugin-transform-runtime": "^7.9.6",
-    "@babel/preset-env": "^7.9.6",
     "nodemon": "^2.0.3",
     "sucrase": "^3.13.0"
   }
