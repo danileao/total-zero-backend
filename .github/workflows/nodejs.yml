@@ -32,7 +32,7 @@ jobs:
       run: npm install pm2 -g
     
     - name: stop pm2
-      run: pm2 stop nodedeploy
+      run: pm2 stop src/server.js
     
     
     - name: Run pm2
