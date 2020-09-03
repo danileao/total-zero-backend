@@ -11,7 +11,7 @@ Total Zero
 
 ## 🔖 Sobre
 
-O projeto **Total Zero** foi desenvolvido com objetivo de mostrar o desenvolvimento de uma aplicação, utilizando NodeJS, totalmente do zero.
+O projeto **-Total Zero-** foi desenvolvido com objetivo de mostrar o desenvolvimento de uma aplicação, utilizando NodeJS, totalmente do zero.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -22,9 +22,9 @@ O projeto **Total Zero** foi desenvolvido com objetivo de mostrar o desenvolvime
 ## 🤔 Como utilizar
 
 ```bash
-    $ yarn install
+    yarn install
 
-    $ yarn dev
+    yarn dev
 ```
 
 ---
